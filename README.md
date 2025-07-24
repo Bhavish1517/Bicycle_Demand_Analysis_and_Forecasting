@@ -35,29 +35,24 @@ The goal of this project is to build robust models that can accurately forecast 
 
 ## Sample Screenshots
 
-- *Exploratory Data Analysis*
-  1) Number of trips in different months and at different temperatures
+- ###Exploratory Data Analysis###
+  *1) Number of trips in different months and at different temperatures*
   ![EDA Screenshot_1](screenshots/month_temp.png)
 
-  2) Average Split of Number of Trips on a Workday across the day
+  *2) Average Split of Number of Trips on a Workday across the day*
   ![EDA Screenshot_2](screenshots/workday.png)
 
-  3) Average Split of Number of Trips on a Weekend or Holiday across the day
+  *3) Average Split of Number of Trips on a Weekend or Holiday across the day*
   ![EDA Screenshot_3](screenshots/weekend_holiday.png)
      
-  4) Diversity Split of riders
+  *4) Diversity Split of riders*
   ![EDA Screenshot_4](screenshots/diversity.png)
 
-- *Model Performance Visualization*
-  1) Baseline Model 
+- ###Model Performance Visualization###
+  *1) Baseline Model* 
   ![Model_1 Screenshot](screenshots/baseline.png)
 
-  2) Best Model 
+  *2) Best Model* 
   ![Model_@ Screenshot](screenshots/best.png)
 
 ---
----
-
-## License
-
-This project is for educational and research purposes.

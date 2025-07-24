@@ -1,14 +1,8 @@
 # Bicycle Demand Analysis and Forecasting
 
-## Description
-
-This repository presents a comprehensive data science project focused on analyzing and forecasting bicycle demand. Using real-world data, the notebook in this project walks through exploratory data analysis (EDA), feature engineering, model building, evaluation, and interpretation to help understand the drivers of bicycle rentals and predict future demand.
-
----
-
 ## Overview
 
-The goal of this project is to build robust models that can accurately forecast bicycle rental demand given various factors such as weather, seasonality, and holidays. This is achieved through systematic data exploration, statistical analysis, and application of advanced machine learning algorithms.
+This repository presents a comprehensive data science project focused on analyzing and forecasting bicycle demand. Using real-world data, the notebook in this project walks through exploratory data analysis (EDA), feature engineering, model building, evaluation, and interpretation to help understand the drivers of bicycle rentals and predict future demand.
 
 ---
 

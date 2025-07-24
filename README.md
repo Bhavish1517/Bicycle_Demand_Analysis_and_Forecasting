@@ -35,7 +35,8 @@ The goal of this project is to build robust models that can accurately forecast 
 
 ## Sample Screenshots
 
-- ###Exploratory Data Analysis###
+- ### Exploratory Data Analysis ###
+
   *1) Number of trips in different months and at different temperatures*
   ![EDA Screenshot_1](screenshots/month_temp.png)
 
@@ -48,7 +49,8 @@ The goal of this project is to build robust models that can accurately forecast 
   *4) Diversity Split of riders*
   ![EDA Screenshot_4](screenshots/diversity.png)
 
-- ###Model Performance Visualization###
+- ### Model Performance Visualization ###
+
   *1) Baseline Model* 
   ![Model_1 Screenshot](screenshots/baseline.png)
 

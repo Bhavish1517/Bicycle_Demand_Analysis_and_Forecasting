@@ -11,7 +11,7 @@ This repository presents a comprehensive data science project focused on analyzi
 - **Data Preprocessing**: Cleans and prepares the raw dataset, handling missing values and outliers.
 - **Exploratory Data Analysis (EDA)**: Visualizes trends, seasonality, correlations, and influential factors affecting bicycle demand.
 - **Feature Engineering**: Constructs new predictive features (e.g., extracting date parts, weather groupings) to improve model performance.
-- **Model Building**: Compares multiple regression models such as Linear Regression, Random Forest, and Gradient Boosting.
+- **Model Building**: Compares multiple regression models such as Linear Regression, Lasso Regression, Ridge Regression, Support Vector Regression, Random Forest, etc. with with polynomial feature engineering and cross-validation
 - **Hyperparameter Tuning**: Optimizes model parameters.
 - **Forecast Visualization**: Plots predictions versus actuals to illustrate model accuracy and usability.
 - **Model Interpretation**: Analyzes feature importance and provides actionable insights for business decision-making.

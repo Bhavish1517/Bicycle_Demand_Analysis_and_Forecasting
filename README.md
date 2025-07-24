@@ -50,7 +50,7 @@ The goal of this project is to build robust models that can accurately forecast 
 
 - *Model Performance Visualization*
   1) Baseline Model 
-  ![Model_1 Screenshot](screenshots/base.png)
+  ![Model_1 Screenshot](screenshots/baseline.png)
 
   2) Best Model 
   ![Model_@ Screenshot](screenshots/best.png)
